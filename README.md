@@ -10,10 +10,6 @@ I use data to generate business insights and improve decision-making.
 
 ## 📁 Projects
 
-### 📌 Sales Dashboard (Power BI)
-- Built interactive dashboard to track revenue
-- Identified top-performing suppliers and categories
-
 ### 📌 Supplier Analysis (SQL)
 - Analyzed supplier contribution to revenue
 - Used joins, aggregations, ranking
