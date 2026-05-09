@@ -21,9 +21,9 @@ I use data to generate business insights and improve decision-making.
 ---
 
 ## 🛠 Tools & Skills
-- SQL (Joins, CTEs, Window Functions)
-- Power BI (Dashboards, DAX)
-- Excel (Pivot Tables, Formulas)
+- SQL (Joins, Subqueries, CTEs, Window Functions)
+- Power BI (Dashboards, DAX, Power Query)
+- Excel (Pivot Tables)
 
 ---
 
