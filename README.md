@@ -18,7 +18,7 @@ I use data to generate business insights and improve decision-making.
 - Analyzed supplier contribution to revenue
 - Used joins, aggregations, ranking
 
-### 📌 SKU Analysis
+### 📌 SKU Analysis (SQL)
 - Worked on large dataset (50,000+ SKUs)
 - Derived category-level insights
 
