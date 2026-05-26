@@ -3,8 +3,9 @@
 🎯 Data Analyst | SQL | Power BI | Excel | Supply Chain
 
 ## 📊 About Me
-I work in merchandising and analyze sales, suppliers, and product performance.  
-I use data to generate business insights and improve decision-making.
+I work in merchandising and supply chain operations, analyzing sales, inventory, suppliers, and product performance.
+
+Skilled in SQL, Power BI, and Excel to generate data-driven insights, improve forecasting accuracy, and support business decision-making.
 
 ---
 
