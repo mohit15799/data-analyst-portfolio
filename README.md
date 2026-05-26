@@ -11,20 +11,20 @@ Skilled in SQL, Power BI, and Excel to generate data-driven insights, improve fo
 
 ## 📁 Projects
 
-### 📌 Supplier Analysis (SQL)
-- Analyzed supplier contribution to revenue
-- Used joins, aggregations, ranking
+Supply Chain & Sales Analysis using SQL
 
-### 📌 SKU Analysis (SQL)
-- Worked on large dataset (50,000+ SKUs)
-- Derived category-level insights
+Analyzed customer sales, regional market share, product performance, and forecast accuracy using SQL to derive business insights for supply chain decision-making.
 
 ---
 
 ## 🛠 Tools & Skills
-- SQL (Joins, Subqueries, CTEs, Window Functions)
-- Power BI (Dashboards, DAX, Power Query)
-- Excel (Pivot Tables)
+- SQL Joins
+- CTEs
+- Window Functions
+- Aggregations
+- Dense Rank
+- Business KPI Analysis
+- Forecast Accuracy Calculation
 
 ---
 
