@@ -3,7 +3,7 @@
 🎯 Data Analyst | SQL | Power BI | Excel | Supply Chain
 
 ## 📊 About Me
-I work in Semand Planning and supply chain operations, analyzing sales, inventory, suppliers, and product performance.
+I work in Demand Planning and supply chain operations, analyzing sales, inventory, suppliers, and product performance.
 
 Skilled in SQL, Power BI, and Excel to generate data-driven insights, improve forecasting accuracy, and support business decision-making.
 
