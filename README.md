@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohit Chauhan
 
-🎯 Data Analyst | SQL | Power BI | Excel | Supply Chain
+🎯 Data Analyst | Supply Chain Analytics | Power BI | SQL | Demand Planning | Inventory Optimization | Forecasting 
 
 ## 📊 About Me
 I work in Demand Planning and supply chain operations, analyzing sales, inventory, suppliers, and product performance.
