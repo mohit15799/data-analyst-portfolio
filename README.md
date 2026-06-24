@@ -10,7 +10,29 @@ Welcome to my portfolio repository! This repository showcases projects where I a
 
 ## 🚀 Featured Projects
 
-### 1. Supply Chain Dashboard Analysis | Power BI
+### 3. Supply Chain Analytics Dashboard | Power BI
+
+**Overview:** Built an interactive dashboard to provide end-to-end visibility into demand, inventory, and supplier performance across the supply chain.
+
+**Key Highlights:**
+
+* Monitored demand trends, inventory health, stock-out risks, and supplier performance.
+* Identified inventory risks, excess stock, and service gaps to support planning decisions.
+* Developed KPI scorecards and interactive visualizations for supply chain performance analysis.
+
+**Tools & Skills:**
+
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Supply Chain Analytics
+* Inventory Analysis
+* KPI Analysis
+
+🔗 **Repository:** 
+
+### 2. AtliQ Mart Supply Chain Dashboard | Power BI
 
 **Overview:** Built an interactive dashboard to analyze supply chain performance and improve customer service levels.
 
@@ -32,7 +54,7 @@ Welcome to my portfolio repository! This repository showcases projects where I a
 
 ---
 
-### 2. Business Insights using SQL
+### 3. Business Insights using SQL
 
 **Overview:** Performed SQL-based business analysis to uncover insights related to customer sales, regional market share, product performance, and forecast accuracy.
 
@@ -55,7 +77,7 @@ Welcome to my portfolio repository! This repository showcases projects where I a
 
 ---
 
-### 3. AtliQ Hardware SQL Challenge
+### 4. AtliQ Hardware SQL Challenge
 
 **Overview:** Solved business ad-hoc requests using SQL to provide data-driven insights for executive decision-making.
 
@@ -98,6 +120,6 @@ Welcome to my portfolio repository! This repository showcases projects where I a
 ### 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/mohitchauhan157
-* GitHub: [https://github.com/mohit15799]
+* Portfolio: https://github.com/mohit15799](https://codebasics.io/portfolio/Mohit-Chauhan)
 
 Thank you for visiting my portfolio!
