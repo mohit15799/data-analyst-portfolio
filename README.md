@@ -10,7 +10,7 @@ Welcome to my portfolio repository! This repository showcases projects where I a
 
 ## 🚀 Featured Projects
 
-### 3. Supply Chain Analytics Dashboard | Power BI
+### 1. Supply Chain Analytics Dashboard | Power BI
 
 **Overview:** Built an interactive dashboard to provide end-to-end visibility into demand, inventory, and supplier performance across the supply chain.
 
