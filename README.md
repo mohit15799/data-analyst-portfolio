@@ -14,6 +14,8 @@ Welcome to my portfolio repository! This repository showcases projects where I a
 
 **Overview:** Built an interactive dashboard to provide end-to-end visibility into demand, inventory, and supplier performance across the supply chain.
 
+🔗 Repository: https://github.com/mohit15799/Supply-Chain-Analytics-Dashboard
+
 **Key Highlights:**
 
 * Monitored demand trends, inventory health, stock-out risks, and supplier performance.
